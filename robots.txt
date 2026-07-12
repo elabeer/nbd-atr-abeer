@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elabeer.github.io/nbd-atr-abeer/sitemap.xml
